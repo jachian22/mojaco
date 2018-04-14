@@ -1,9 +1,9 @@
 # Mojaco - Mohamed and Jason foray into commodities
 
 ## Datasets
-https://www.kaggle.com/unitednations/global-commodity-trade-statistics
-https://www.kaggle.com/dorbicycle/world-foodfeed-production/data
-https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
+https://www.kaggle.com/unitednations/global-commodity-trade-statistics <br />
+https://www.kaggle.com/dorbicycle/world-foodfeed-production/data <br />
+https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding <br />
 
 ## To-do
 ### Mohamed
