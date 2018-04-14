@@ -2,6 +2,8 @@
 
 ## Datasets
 https://www.kaggle.com/unitednations/global-commodity-trade-statistics
+https://www.kaggle.com/dorbicycle/world-foodfeed-production/data
+https://www.kaggle.com/kiva/data-science-for-good-kiva-crowdfunding
 
 ## To-do
 ### Mohamed
